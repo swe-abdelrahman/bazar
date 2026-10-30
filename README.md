@@ -321,6 +321,4 @@ python manage.py update_translation_fields
 3. Commit: `git commit -m "Add my feature"`
 4. Push ثم افتح Pull Request
 
-## 📄 الترخيص
 
-لم يتم تحديد ترخيص بعد — أضف ملف `LICENSE` حسب احتياجك.
