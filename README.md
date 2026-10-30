@@ -319,4 +319,8 @@ python manage.py update_translation_fields
 3. Commit: `git commit -m "Add my feature"`
 4. Push ثم افتح Pull Request
 
+## 📄 الترخيص
+
+هذا المشروع ملكية خاصة. جميع الحقوق محفوظة.
+
 
